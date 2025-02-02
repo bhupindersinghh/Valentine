@@ -21,7 +21,7 @@ export default function Page() {
     const phrases = [
       "No",
       "Are you sure?",
-      "Aren,t you my sweetie?",
+      "Aren,t you my sweetie? MUAHHHH",
       "Pretty please",
       "With a cheese cake?",
       "What about tiramisu?",
